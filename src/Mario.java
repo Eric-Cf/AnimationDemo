@@ -37,7 +37,7 @@ public class Mario extends MovingImage {
 		
 		this.moveByAmount(vX, vY);
 		
-		System.out.println("test line lol");
+		System.out.println("tesdafasdfasdfasdst line");
 	}
 
 
