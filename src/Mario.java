@@ -33,6 +33,8 @@ public class Mario extends MovingImage {
 		vY+= 0.25;
 		
 		this.moveByAmount(vX, vY);
+		
+		System.out.println("test line");
 	}
 
 
